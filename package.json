@@ -1,0 +1,21 @@
+{
+  "name": "informational-site",
+  "version": "1.0.0",
+  "description": "basic informational sit using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DutsAndrew/node-informational-site.git"
+  },
+  "author": "Andrew Dutson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DutsAndrew/node-informational-site/issues"
+  },
+  "homepage": "https://github.com/DutsAndrew/node-informational-site#readme"
+}
